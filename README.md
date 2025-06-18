@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sowmiya
-- 👀 I’m interested in ...FrontEnd
-- 🌱 I’m currently learning ...UI/UX
-- 💞️ I’m looking to collaborate on ...FrontEnd project
+- 👀 I’m interested in ...Data Analyst
+- 🌱 I’m currently learning ...Data Science
+- 💞️ I’m looking to collaborate on ...Data Analyst project
 - 📫 How to reach me ...sowmik554@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

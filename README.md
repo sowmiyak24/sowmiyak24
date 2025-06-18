@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sowmiya
+  - 👋 Hi, I’m sowmiya
 - 👀 I’m interested in ...Data Analyst
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...Data Analyst project
